@@ -43,6 +43,13 @@
 </p>
 
 
+<h5>Banco de dados</h5>
+<p>
+  <img src="https://img.shields.io/badge/MySql%20-%2343769c.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Redis%20-%23d3291f.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+
 <h5>Projetos educacionais</h5>
 <p>
   <img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
