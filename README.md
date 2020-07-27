@@ -31,6 +31,7 @@
 <h5>Back-end</h5>
 <p>
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="http://img.shields.io/badge/socket.io%20-%23000000.svg?&style=for-the-badge&logo=socket.io&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
 </p>
 
