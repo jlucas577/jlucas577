@@ -16,7 +16,7 @@
 <hr>
 
 
-<h4> 🔭 Atualmente estou trabalhando com...</h4>
+<h4> 🔭 Atualmente trabalho com...</h4>
 
 <h5>Front-end</h5>
 <p>
@@ -29,7 +29,13 @@
 
 <h5>Back-end</h5>
 <p>
-  <img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+
+<h5>Mobile</h5>
+<p>
+  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
