@@ -24,6 +24,7 @@
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Dart%20-%231C2834.svg?&style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
@@ -36,7 +37,9 @@
 
 <h5>Mobile</h5>
 <p>
-  <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flutter%20-%231389FD.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Java%20-%23e82e2e.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Swift%20-%23ff6a31.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
