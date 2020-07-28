@@ -55,3 +55,10 @@
 <p>
   <img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
 </p>
+
+
+<h5>🌱 Atualmente estou aprendendo</h5>
+<p>
+  <img src="https://img.shields.io/badge/VUE.JS%20-%2300c27c.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/GraphQL%20-%23e636ab.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
+</p>
