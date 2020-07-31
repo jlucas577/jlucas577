@@ -25,6 +25,7 @@
   <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Dart%20-%231C2834.svg?&style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Bootstrap%20-%237952b3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
