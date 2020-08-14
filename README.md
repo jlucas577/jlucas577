@@ -53,6 +53,12 @@
 </p>
 
 
+<h5>Automatizador de tarefas</h5>
+<p>
+  <img src="https://img.shields.io/badge/Gulp%20-%23d04646.svg?&style=for-the-badge&logo=gulp&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+
 <h5>Projetos educacionais</h5>
 <p>
   <img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
