@@ -6,7 +6,7 @@
 
 <p align='center'>
   <a href="https://github.com/jlucas577/"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jlucas577/"></a>&nbsp;&nbsp;
-  <a href="https://www.instagram.com/jlucas577/"><img src="https://img.shields.io/badge/-Instagram-blueViolet?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jlucas577/"></a>&nbsp;&nbsp;
+  <a href="https://www.instagram.com/jlucas577/"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jlucas577/"></a>&nbsp;&nbsp;
   <a href="https://www.facebook.com/jlucas577/"><img src="https://img.shields.io/badge/-Facebook-royalBlue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/jlucas577/"></a>&nbsp;&nbsp;
   <a href="https://www.twitter.com/jlucas577/"><img src="https://img.shields.io/badge/-Twitter-deepskyblue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/jlucas577/"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jlucas577/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlucas577/"></a>&nbsp;&nbsp;
@@ -24,7 +24,7 @@
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Bootstrap%20-%237952b3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
 </p>
 
