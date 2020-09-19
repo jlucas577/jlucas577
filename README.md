@@ -7,7 +7,7 @@
 <p align='center'>
   <a href="https://github.com/jlucas577/"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jlucas577/"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/jlucas577/"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jlucas577/"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/jlucas577/"><img src="https://img.shields.io/badge/-Facebook-royalBlue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/jlucas577/"></a>&nbsp;&nbsp;
+  <a href="https://www.facebook.com/jlucas577/"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/jlucas577/"></a>&nbsp;&nbsp;
   <a href="https://www.twitter.com/jlucas577/"><img src="https://img.shields.io/badge/-Twitter-deepskyblue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/jlucas577/"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jlucas577/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlucas577/"></a>&nbsp;&nbsp;
   <a href="mailto:lucasmartinsdesousa432@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmartinsdesousa432@gmail.com"></a>
