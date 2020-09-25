@@ -33,7 +33,6 @@
 <p>
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
-  <img src="http://img.shields.io/badge/socket.io%20-%23000000.svg?&style=for-the-badge&logo=socket.io&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
@@ -50,6 +49,20 @@
 <p>
   <img src="https://img.shields.io/badge/MySql%20-%2343769c.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Redis%20-%23d3291f.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/MongoDB%20-%2369b23f.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+
+<h5>Frameworks</h5>
+<p>
+  <img src="https://img.shields.io/badge/VUE.JS%20-%2300c27c.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="http://img.shields.io/badge/socket.io%20-%23000000.svg?&style=for-the-badge&logo=socket.io&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+
+<h5>Linguagem de consulta</h5>
+<p>
+  <img src="https://img.shields.io/badge/GraphQL%20-%23e536ab.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
@@ -68,6 +81,4 @@
 <h5>🌱 Atualmente estou aprendendo</h5>
 <p>
   <img src="https://img.shields.io/badge/VUE.JS%20-%2300c27c.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/GraphQL%20-%23e636ab.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/MongoDB%20-%2369b23f.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
 </p>
