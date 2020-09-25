@@ -80,5 +80,5 @@
 
 <h5>🌱 Atualmente estou aprendendo</h5>
 <p>
-  <img src="https://img.shields.io/badge/VUE.JS%20-%2300c27c.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/React%20-%2319b6e7.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
 </p>
