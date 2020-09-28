@@ -57,6 +57,7 @@
   <img src="https://img.shields.io/badge/Bootstrap%20-%237952b3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VUE.JS%20-%2300c27c.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;
   <img src="http://img.shields.io/badge/socket.io%20-%23000000.svg?&style=for-the-badge&logo=socket.io&logoColor=white" />&nbsp;&nbsp;
+  <img src="http://img.shields.io/badge/.NET%20-%231167ae.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
