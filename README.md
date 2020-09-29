@@ -39,6 +39,7 @@
 <p>
   <img src="https://img.shields.io/badge/Flutter%20-%231389FD.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Dart%20-%231C2834.svg?&style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Kotlin%20-%23168ed7.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java%20-%23e82e2e.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Swift%20-%23ff6a31.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
 </p>
