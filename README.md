@@ -80,10 +80,3 @@
 <p>
   <img src="https://img.shields.io/badge/arduino%20-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
 </p>
-
-
-<h5>🌱 Atualmente estou aprendendo</h5>
-<p>
-  <img src="https://img.shields.io/badge/React%20-%2319b6e7.svg?&style=for-the-badge&logo=react&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/TypeScript%20-%23093062.svg?&style=for-the-badge&logo=typescript&logoColor=white" />&nbsp;&nbsp;
-</p>
