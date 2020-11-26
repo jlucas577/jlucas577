@@ -64,6 +64,12 @@
 </p>
 
 
+<h5>Controle de versões distribuído</h5>
+<p>
+  <img src="https://img.shields.io/badge/Git%20-%23f0512f.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+
 <h5>Linguagem de consulta</h5>
 <p>
   <img src="https://img.shields.io/badge/GraphQL%20-%23e536ab.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
