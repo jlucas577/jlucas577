@@ -35,6 +35,11 @@
 </p>
 
 
+<h5>Compilada=</h5>
+<p>
+  <img src="https://img.shields.io/badge/C%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+</p>
+
 <h5>Mobile</h5>
 <p>
   <img src="https://img.shields.io/badge/Flutter%20-%231389FD.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
