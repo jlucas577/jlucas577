@@ -37,7 +37,7 @@
 
 <h5>Compilada</h5>
 <p>
-  <img src="https://img.shields.io/badge/C%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/C%20-%23339933.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 <h5>Mobile</h5>
