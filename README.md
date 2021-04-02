@@ -40,6 +40,7 @@
   <img src="https://img.shields.io/badge/C%20-%23339933.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp;
 </p>
 
+
 <h5>Mobile</h5>
 <p>
   <img src="https://img.shields.io/badge/Flutter%20-%231389FD.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
@@ -47,6 +48,12 @@
   <img src="https://img.shields.io/badge/Kotlin%20-%23168ed7.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java%20-%23e82e2e.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Swift%20-%23ff6a31.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+
+<h5>Desktop</h5>
+<p>
+  <img src="https://img.shields.io/badge/Delphi%20-%23f22835.svg?&style=for-the-badge&logo=delphi&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
@@ -63,7 +70,6 @@
   <img src="https://img.shields.io/badge/Bootstrap%20-%237952b3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/VUE.JS%20-%2300c27c.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;
   <img src="http://img.shields.io/badge/socket.io%20-%23000000.svg?&style=for-the-badge&logo=socket.io&logoColor=white" />&nbsp;&nbsp;
-  <img src="http://img.shields.io/badge/.NET%20-%231167ae.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;
   <img src="http://img.shields.io/badge/Firebase%20-%23fecb02.svg?&style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;&nbsp;
   <img src="http://img.shields.io/badge/WordPress%20-%23007499.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />&nbsp;&nbsp;
 </p>
