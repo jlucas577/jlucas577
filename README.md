@@ -54,6 +54,7 @@
 <h5>Desktop</h5>
 <p>
   <img src="https://img.shields.io/badge/Delphi%20-%23f22835.svg?&style=for-the-badge&logo=delphi&logoColor=white" />&nbsp;&nbsp;
+  <img src="http://img.shields.io/badge/.NET%20-%231167ae.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
