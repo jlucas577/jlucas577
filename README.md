@@ -1,7 +1,7 @@
 <h1 align='center'>👋 Olá, me chamo João Martins 👨🏻‍💻.</h1>
 
 <p align='center'>
-  Eu moro em Angra dos Reis, Brasil e atualmente trabalho no <a href='https://www.papafood.app/'><b>Papafood</b></a>.
+  Desenvolvedor Full Stack Web & Mobile, estudante de Ciência da Computação, apaixonado por computação e tecnologia, desde os 12 anos já desenvolvia minhas próprias aplicações, sempre buscando meu aperfeiçoamento e por dentro dos recursos e tecnologias mais usadas. Sou uma pessoa com mentalidade empreendedora, amo resolver problemas e estou sempre disposto a aprender coisas novas e que me desafiem.  
 </p>
 
 <p align='center'>
