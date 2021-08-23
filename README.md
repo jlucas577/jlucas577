@@ -1,7 +1,7 @@
 <h1 align='center'>👋 Olá, me chamo João Martins 👨🏻‍💻.</h1>
 
 <p align='center'>
-  Desenvolvedor Full Stack Web & Mobile, estudante de Ciência da Computação, apaixonado por computação e tecnologia, desde os 12 anos já desenvolvia minhas próprias aplicações, sempre buscando meu aperfeiçoamento e por dentro dos recursos e tecnologias mais usadas. Sou uma pessoa com mentalidade empreendedora, amo resolver problemas e estou sempre disposto a aprender coisas novas e que me desafiem.  
+  Desenvolvedor Mobile & Full Stack, estudante de Ciências da Computação na UniCarioca, apaixonado por computação e tecnologia, desde os 12 anos já desenvolvia minhas próprias aplicações, sempre buscando meu aperfeiçoamento e por dentro dos recursos e tecnologias mais utlizadas. Sou uma pessoa com mentalidade empreendedora, amo resolver problemas e estou sempre disposto a aprender coisas novas e que me desafiem.  
 </p>
 
 <p align='center'>
@@ -43,55 +43,17 @@
 
 <h5>Mobile</h5>
 <p>
-  <img src="https://img.shields.io/badge/Flutter%20-%231389FD.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Dart%20-%231C2834.svg?&style=for-the-badge&logo=dart&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Kotlin%20-%23168ed7.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java%20-%23e82e2e.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Swift%20-%23ff6a31.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
-</p>
-
-
-<h5>Desktop</h5>
-<p>
-  <img src="https://img.shields.io/badge/Delphi%20-%23f22835.svg?&style=for-the-badge&logo=delphi&logoColor=white" />&nbsp;&nbsp;
-  <img src="http://img.shields.io/badge/.NET%20-%231167ae.svg?&style=for-the-badge&logo=.net&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Flutter%20-%231389FD.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
 <h5>Banco de dados</h5>
 <p>
   <img src="https://img.shields.io/badge/MySql%20-%2343769c.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Redis%20-%23d3291f.svg?&style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB%20-%2369b23f.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
-</p>
-
-
-<h5>Frameworks e outros</h5>
-<p>
-  <img src="https://img.shields.io/badge/Bootstrap%20-%237952b3.svg?&style=for-the-badge&logo=bootstrap&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/VUE.JS%20-%2300c27c.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;
-  <img src="http://img.shields.io/badge/socket.io%20-%23000000.svg?&style=for-the-badge&logo=socket.io&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Electron%20-%232a2e38.svg?&style=for-the-badge&logo=electron&logoColor=white" />&nbsp;&nbsp;
-  <img src="http://img.shields.io/badge/Firebase%20-%23fecb02.svg?&style=for-the-badge&logo=firebase&logoColor=black" />&nbsp;&nbsp;
-  <img src="http://img.shields.io/badge/WordPress%20-%23007499.svg?&style=for-the-badge&logo=wordpress&logoColor=white" />&nbsp;&nbsp;
-</p>
-
-
-<h5>Controle de versões distribuído</h5>
-<p>
-  <img src="https://img.shields.io/badge/Git%20-%23f0512f.svg?&style=for-the-badge&logo=git&logoColor=white" />&nbsp;&nbsp;
-</p>
-
-
-<h5>Linguagem de consulta</h5>
-<p>
-  <img src="https://img.shields.io/badge/GraphQL%20-%23e536ab.svg?&style=for-the-badge&logo=graphql&logoColor=white" />&nbsp;&nbsp;
-</p>
-
-
-<h5>Automatizador de tarefas</h5>
-<p>
-  <img src="https://img.shields.io/badge/Gulp%20-%23d04646.svg?&style=for-the-badge&logo=gulp&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
