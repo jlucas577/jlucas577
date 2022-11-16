@@ -5,12 +5,8 @@
 </p>
 
 <p align='center'>
-  <a href="https://github.com/jlucas577/"><img src="https://img.shields.io/badge/-Github-000?style=flat-square&logo=Github&logoColor=white&link=https://github.com/jlucas577/"></a>&nbsp;&nbsp;
   <a href="https://www.instagram.com/jlucas577/"><img src="https://img.shields.io/badge/-Instagram-purple?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/jlucas577/"></a>&nbsp;&nbsp;
-  <a href="https://www.facebook.com/jlucas577/"><img src="https://img.shields.io/badge/-Facebook-blue?style=flat-square&logo=Facebook&logoColor=white&link=https://www.facebook.com/jlucas577/"></a>&nbsp;&nbsp;
-  <a href="https://www.twitter.com/jlucas577/"><img src="https://img.shields.io/badge/-Twitter-deepskyblue?style=flat-square&logo=twitter&logoColor=white&link=https://www.twitter.com/jlucas577/"></a>&nbsp;&nbsp;
   <a href="https://www.linkedin.com/in/jlucas577/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/jlucas577/"></a>&nbsp;&nbsp;
-  <a href="mailto:lucasmartinsdesousa432@gmail.com"><img src="https://img.shields.io/badge/-Gmail-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:lucasmartinsdesousa432@gmail.com"></a>
 </p>
 
 
@@ -21,10 +17,11 @@
 
 <h5>Front-end</h5>
 <p>
+  <img src="https://img.shields.io/badge/VUE.JS%20-%2300c27c.svg?&style=for-the-badge&logo=vue.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/html5%20-%23e34f26.svg?&style=for-the-badge&logo=html5&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/jquery%20-%230769ad.svg?&style=for-the-badge&logo=jquery&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
@@ -32,21 +29,16 @@
 <p>
   <img src="https://img.shields.io/badge/node.js%20-%23339933.svg?&style=for-the-badge&logo=node.js&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/php%20-%231572B6.svg?&style=for-the-badge&logo=php&logoColor=white" />&nbsp;&nbsp;
-</p>
-
-
-<h5>Compilada</h5>
-<p>
-  <img src="https://img.shields.io/badge/C%20-%23339933.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/python%20-%23f5cb11.svg?&style=for-the-badge&logo=python&logoColor=black" />&nbsp;&nbsp;
 </p>
 
 
 <h5>Mobile</h5>
 <p>
+  <img src="https://img.shields.io/badge/Flutter%20-%231389FD.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Kotlin%20-%23168ed7.svg?&style=for-the-badge&logo=kotlin&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Java%20-%23e82e2e.svg?&style=for-the-badge&logo=java&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Swift%20-%23ff6a31.svg?&style=for-the-badge&logo=swift&logoColor=white" />&nbsp;&nbsp;
-  <img src="https://img.shields.io/badge/Flutter%20-%231389FD.svg?&style=for-the-badge&logo=flutter&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
@@ -54,6 +46,12 @@
 <p>
   <img src="https://img.shields.io/badge/MySql%20-%2343769c.svg?&style=for-the-badge&logo=mysql&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/MongoDB%20-%2369b23f.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />&nbsp;&nbsp;
+</p>
+
+
+<h5>Compilada</h5>
+<p>
+  <img src="https://img.shields.io/badge/C%20-%23339933.svg?&style=for-the-badge&logo=C&logoColor=white" />&nbsp;&nbsp;
 </p>
 
 
