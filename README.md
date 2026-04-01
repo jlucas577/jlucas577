@@ -68,5 +68,6 @@
   <img src="https://img.shields.io/badge/Docker-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/RabbitMQ-%23ff6600.svg?&style=for-the-badge&logo=rabbitmq&logoColor=white" />&nbsp;&nbsp;
   <img src="https://img.shields.io/badge/Azure%20DevOps-%230078d7.svg?&style=for-the-badge&logo=azure-devops&logoColor=white" />&nbsp;&nbsp;
+  <img src="https://img.shields.io/badge/Figma-%23F24E1E.svg?&style=for-the-badge&logo=figma&logoColor=white" />
   <img src="https://img.shields.io/badge/Arduino-%2300979d.svg?&style=for-the-badge&logo=arduino&logoColor=white" />&nbsp;&nbsp;
 </p>
